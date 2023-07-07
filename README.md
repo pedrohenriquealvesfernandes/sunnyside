@@ -28,5 +28,5 @@ Landing Page <strong>Sunnyside</strong> disponibilizado por [Frontend Mentor](ht
 LinkedIn</a><br><br>
 
 # **Disponível**
-Clique <a href="https://pedrohenriquealvesfernandes.github.io/sunnyside/" style="color: cyan"><strong>AQUI</strong></a> para acessar a projeto em funcionamento (resolução na qual precisa ser exibida 1366px (desktop) e 375px (celular) ).
+Clique <a href="https://pedrohenriquealvesfernandes.github.io/sunnyside/" style="color: cyan"><strong>AQUI</strong></a> para acessar a projeto em funcionamento (resolução a ser exibida 1366px (desktop) e 375px (celular) ).
 
