@@ -4,7 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,900&display=swap');
 
-@media screen and (min-width:1440px){
+@media screen and (min-width:1366px){
     header{
         padding: 2em 2em;
         width: 100%;
@@ -69,7 +69,8 @@
     }
 
     div.learn-more{
-        display: flex;
+        display: grid;
+        grid-template-columns: 50% 50%;
     }
 
     section > div.learn-more > .img-cel{
@@ -78,12 +79,12 @@
     
     section > div.learn-more > .img-desktop{
         display: block;
-        flex: 50%;
+        width: 100%;
     }
 
     div.conteudo{
         margin: 0;
-        padding: 10em;
+        padding: 9em;
         flex: 50%;
         text-align: left;
     }
